@@ -14,7 +14,7 @@
 
 </div>
 
-![Banner](image/banner.jpg)
+![Banner](./banner.gif)
 
 
 
