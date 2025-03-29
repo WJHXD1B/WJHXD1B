@@ -8,9 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WJHXD1B&show_icons=true&theme=tokyonight)
 
 
-![](https://img.shields.io/badge/code-Pyhon-blue)
-
-![](https://img.shields.io/badge/Game-Call%20Of%20Duty-yellow)
+![](https://img.shields.io/badge/code-Pyhon-blue) ![](https://img.shields.io/badge/Game-Call%20Of%20Duty-yellow)
 
 </div>
 
